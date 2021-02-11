@@ -30,4 +30,4 @@ Download and unzip contents from GitHub repo
 Download and unzip contents from https://github.com/Kisalaykisu/ML-OPT-App.git
 
 ## Launch the app
-    streamlit run app.py
+    streamlit run ml-opt-app.py
